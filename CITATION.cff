@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this manifesto if you refer to ACP-CE."
+type: generic
+title: "Artificial Cognitive Plasticity through Continuous Experience (ACP-CE): A Research Manifesto for Lifelong Cognitive Development in Artificial Agents"
+authors:
+  - family-names: Visaggio
+    given-names: Dario
+    alias: 'Dario Visaggio "Desarius"'
+repository-code: "https://github.com/Desarius/ACP-CE"
+url: "https://github.com/Desarius/ACP-CE/blob/main/ACP-CE_Research_Manifesto_v0.1.md"
+version: "0.1"
+date-released: "2026-11-03"
+abstract: >-
+  A research manifesto proposing empirical investigation of persistent,
+  experience-driven cognitive plasticity in artificial agents.
+keywords:
+  - artificial cognitive plasticity
+  - continual learning
+  - cognitive development
+  - lifelong agents
